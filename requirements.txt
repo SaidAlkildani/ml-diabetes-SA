@@ -10,3 +10,4 @@ psycopg2-binary
 SQLAlchemy==2.0.15
 missingno==0.2.0
 imbalanced-learn
+xgboost==1.7.5
